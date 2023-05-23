@@ -8,13 +8,27 @@ h1{
     font-family: 'Share', cursive;
 }
 
+h2{
+    font-family: 'Inter', sans-serif;
+
+}
+
+p{
+    font-family: 'Inter', sans-serif;
+}
+
 .button{
-    background-color: #FFC912;
+    background-color: #1F8089;
+}
+
+.navbar-custom{
+    background-color: black;
 }
 
 .btn-primary{
-    background-color: #FFC912;
+    background-color: #1F8089;
     border-radius: 20px;
+    font-family: 'Inter', sans-serif;
 }
 
 .navbar{
@@ -47,6 +61,14 @@ background-size: cover;
     opacity: 75%;
 }
 
+.card-group{
+    background-color: black;
+}
+
+.buddies{
+background-color: black;
+}
+
 .bluecard{
     background-color: #1F8089;
     color: white;
@@ -77,8 +99,12 @@ margin: 5%;
     font-family: 'Share', cursive;
 }
 
+.separate{
+    background-color:black;
+    padding: 5%;
+}
 .super{
-    background-color: #C3602D;
+    background-color: black;
 }
 
 .free{
@@ -91,6 +117,10 @@ margin: 5%;
 
 .space{
     padding: 4%;
+    background-color: black;
+}
+
+.friends{
     background-color: black;
 }
 
