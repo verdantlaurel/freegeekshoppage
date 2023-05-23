@@ -1,6 +1,6 @@
 body{
-background-color:black;
-color:white;
+background-color:#EEEEEE;
+color:#000000;
 margin: 5%;
 }
 
@@ -9,30 +9,51 @@ h1{
 }
 
 .button{
-    background-color: #FFC912;
+    background-color: #1F8089;
 }
 
 .btn-primary{
-    background-color: #FFC912;
+    background-color: #1F8089;
     border-radius: 20px;
 }
 
+.btn-outline-success{
+  color:#000000;
+  background-color: #C3602D;  
+  border-width: 0px;
+  margin-right: 15px;
+}
+
+.form-control{
+  border-radius: 20px;
+  border-color: #C3602D;
+  border-width: 3px;
+}
 .navbar{
-    background-color:black;
+    background-color:black !important;
+    position: relative;
 }
 
 .ul{
-    position:sticky;
+    position: sticky;
 }
 
 .navbar-dark{
     background-color: black;
+    position: sticky;
 }
 
 .nav-item{
     background-color:#1F8089;
     border-radius: 20px;
-    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+li{
+  list-style: none;
 }
 
 .freegeek{
