@@ -13,8 +13,9 @@ h1 {
 }
 
 .btn-primary {
-    background-color: #1F8089;
+    background-color: #C3602D;
     border-radius: 20px;
+    outline: #C3602D;
 }
 
 .btn-outline-success {
@@ -70,24 +71,28 @@ li {
 }
 
 .jumbotron.fgHome {
-  background-image: url("../images/free-geek-hero-cropped.jpg");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, .05), rgba(0, 0, 0, 0.75)), url("../images/free-geek-hero-cropped.jpg");
+  border-radius: 0;
   height: 850px;
   background-size: cover;
-  background-repeat: no-repeat;
-  back
+  background-repeat: no-repeat;  
   }
 
 .jumbotron.fgShop {
-  background-image: url("../images/free-geek-store.png");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, .05), rgba(0, 0, 0, 0.75)), url("../images/free-geek-store.png");
   background-size: cover;
+  border-radius: 0;
 }
-
 
 .bigwords {
     background-color: transparent;
     border-radius: 20px;
     opacity: 75%;
-    color:#EEEEEE;
+    color:#EEEEEE;    
+}
+
+.lead {
+  font-weight: bold;
 }
 
 .bluecard { 
@@ -95,24 +100,28 @@ li {
     color: #EEEEEE;
     stroke: #1F8089;
     margin: 5%;
+    border-radius: 20px;
 }
 
 .greycard {  
    background-color: #928E82;
    color: #EEEEEE;
    margin: 5%;
+   border-radius: 20px;
 }
 
 .orangecard {
   background-color: #C3602D;
   color: #EEEEEE;
   margin: 5%;
+  border-radius: 20px;
 }
 
 .navycard {
   background-color: #1F1F3D;
   color: #EEEEEE;
   margin: 5%;
+  border-radius: 20px;
 }
 
 .card-text {
