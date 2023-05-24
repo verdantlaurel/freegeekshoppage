@@ -1,50 +1,50 @@
-body{
+body {
 background-color:#EEEEEE;
 color:#000000;
 margin: 5%;
 }
 
-h1{
+h1 {
     font-family: 'Share', cursive;
 }
 
-.button{
+.button {
     background-color: #1F8089;
 }
 
-.btn-primary{
+.btn-primary {
     background-color: #1F8089;
     border-radius: 20px;
 }
 
-.btn-outline-success{
+.btn-outline-success {
   color:#000000;
   background-color: #C3602D;  
   border-width: 0px;
   margin-right: 15px;
 }
 
-.form-control{
+.form-control {
   border-radius: 20px;
   border-color: #C3602D;
   border-width: 3px;
   margin-left: 5px;
 }
-.navbar{
+.navbar {
     background-color:black !important;
     position: relative;
 }
 
-.ul{
+.ul {
     position: sticky;
 }
 
-.navbar-dark{
+.navbar-dark {
     background-color: black;
     position: sticky;
 }
 
-.nav-item{
+.nav-item {
     background-color:#1F8089;
     border-radius: 20px;
     padding-left: 20px;
@@ -53,24 +53,23 @@ h1{
     margin-right: 10px;
 }
 
-li{
+li {
   list-style: none;
 }
 
-
-.search{
+.search {
   list-style: none;
   padding-right: 20px;
   padding-left: 5px;
 }
 
-.save{
+.save {
   list-style: none;
   padding-right: 10px;
   padding-left: 0px;
 }
 
-.jumbotron.fgHome{
+.jumbotron.fgHome {
   background-image: url("../images/free-geek-hero-cropped.jpg");
   height: 850px;
   background-size: cover;
@@ -78,54 +77,54 @@ li{
   back
   }
 
-.jumbotron.fgShop{
+.jumbotron.fgShop {
   background-image: url("../images/free-geek-store.png");
   background-size: cover;
 }
 
 
-.bigwords{
+.bigwords {
     background-color: transparent;
     border-radius: 20px;
     opacity: 75%;
     color:#EEEEEE;
 }
 
-.bluecard{
+.bluecard { 
     background-color: #1F8089;
     color: #EEEEEE;
     stroke: #1F8089;
     margin: 5%;
 }
 
-.greycard{
+.greycard {  
    background-color: #928E82;
    color: #EEEEEE;
    margin: 5%;
 }
 
-.orangecard{
+.orangecard {
   background-color: #C3602D;
   color: #EEEEEE;
   margin: 5%;
 }
 
-.navycard{
+.navycard {
   background-color: #1F1F3D;
   color: #EEEEEE;
   margin: 5%;
 }
 
-.card-text{
+.card-text {
   color: #EEEEEE;
   font-family: 'Share', cursive;
 }
 
-.super{
+.super {
   background-color: #C3602D;
 }
 
-.free{
+.free {
   padding: 2%;
   color: black;
   background-color: #928E82;
@@ -133,20 +132,20 @@ li{
 
 
 
-.space{
+.space {
   padding: 4%;
   background-color: black;
 }
 
-.card-title{
+.card-title {
   justify-content: center;
 }
 
-.footer-clean{
+.footer-clean {
   background-color: #000000;    
 }
 
-.listTitle{
+.listTitle {
   font-size: 24px;
 }
 
