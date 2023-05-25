@@ -272,6 +272,15 @@ li {
 }
 
 
+/**Discord CSS**/
+
+.discord img{
+  height:400px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+
 /**Shop CSS**/
 
 .bluecard { 
@@ -318,8 +327,6 @@ li {
   background-color: #928E82;
 }
 
-
-
 .space {
   padding: 4%;
   background-color: black;
@@ -328,6 +335,9 @@ li {
 .card-title {
   justify-content: center;
 }
+
+
+
 
  /**Footer CSS**/
 
@@ -397,8 +407,6 @@ footer .footer-right {
   font-size: 18px;
 }
 
-
-/**---------**/
 
 .footer-clean {
   background-color: #000000;    
